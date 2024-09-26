@@ -23,7 +23,7 @@
 				tieModalOpen = true;
 			}
 			else {
-				player = player == 'X' ? 'Y' : 'X';
+				player = player == 'X' ? 'O' : 'X';
 				message = 'Your turn to move.';
 			}
 		} else {
